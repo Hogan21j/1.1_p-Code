@@ -1,2 +1,2 @@
-# 1.1_p-Code
+# 1.1_PythonCode
 Python Battleship Game
